@@ -10,7 +10,7 @@ app.config["SECRET_KEY"] = "seasdad(*2sffcra01^23sdet"
 CORS(app)
 
 # Get this URL from the Azure Overview page of your API web app
-api_url = "http://127.0.0.1:5002"  # base url for API endpoints
+api_url = "3300-salary-api-dchxazcmf7fad9a6.canadacentral-01.azurewebsites.net"  # base url for API endpoints
 
 
 # main index page route
